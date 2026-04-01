@@ -11,11 +11,11 @@
 
 <br>
 
-Your bestie quit, leaving behind a mountain of unmaintained docs?<br>
-Your intern left, nothing but an empty desk and a half-finished project?<br>
-Your mentor graduated, taking all the context and experience with them?<br>
-Your partner transferred, and the chemistry you built reset to zero overnight?<br>
-Your predecessor handed over, trying to condense three years into three pages?<br>
+The person who understood your project best has left, and no one owns the context?<br>
+Your closest collaboration partner moved teams, and a lot of tacit knowledge disappeared?<br>
+The handover document is short, but the real know-how took years to build?<br>
+You want to preserve how they work, communicate, and make decisions?<br>
+You want AI to keep collaborating "like them" when it matters?<br>
 
 **Turn cold goodbyes into warm Skills — welcome to cyber-immortality!**
 
